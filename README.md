@@ -1,6 +1,9 @@
 # 🛒 Spring Boot Shopping Cart
 
-![Project Architecture](project-architecture.png)
+#Project Architecture
+
+<img width="1234" height="722" alt="Architecture" src="https://github.com/user-attachments/assets/c4ef8009-bf94-4375-a708-87f29ffd96a3" />
+
 
 A full-featured shopping cart web application built with Spring Boot and Thymeleaf. This application demonstrates modern web development practices including user authentication, session management, and database operations.
 
